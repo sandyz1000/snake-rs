@@ -1,0 +1,13 @@
+/home/sandipdey/Documents/Github/snake-rs/target/debug/deps/liblog-5338040357775ce6.rmeta: /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/mod.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/error.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/key.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/source.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/value.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/home/sandipdey/Documents/Github/snake-rs/target/debug/deps/log-5338040357775ce6.d: /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/mod.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/error.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/key.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/source.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/value.rs /home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs:
+/home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs:
+/home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs:
+/home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/mod.rs:
+/home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/error.rs:
+/home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/key.rs:
+/home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/source.rs:
+/home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/kv/value.rs:
+/home/sandipdey/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs:
