@@ -1,4 +1,4 @@
-# Snake
+# Snake 🎮🐍
 
 
 ### Building from Source
